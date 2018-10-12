@@ -9,6 +9,3 @@ update file local remote
 what the fuck
 
 first1
-
-
-first2
